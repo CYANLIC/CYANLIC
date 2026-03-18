@@ -19,4 +19,6 @@
 
 <img width="367" height="677" alt="Untitled Project (1)-Photoroom" src="https://github.com/user-attachments/assets/e352549c-9704-4a46-8332-e4beb73aa69d" />
 
+[![Hits](https://hits.sh/github.com/LLUXOFF.svg?style=plastic&label=%3E%3E%20%E1%B4%A0%C9%AA%E1%B4%87%E1%B4%A1%E1%B4%87%CA%80%EA%9C%B1%20%3A&color=e6e0d5&labelColor=141115)](https://hits.sh/github.com/LLUXOFF/)
+
 </div>
