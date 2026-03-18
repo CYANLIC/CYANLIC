@@ -7,7 +7,7 @@
  𝗰 𝗵 𝗼 𝗼 𝘀 𝗲  &ensp;&ensp; ‎ 𝘄 𝗶 𝘀 𝗲 𝗹 𝘆 .
 
 
-<a href="https://github.com/ace-syrup"><img width="350" height="350" alt="tumblr_5fe219e4e9aef22e5911dab361d3f416_729c742a_1280" src="https://github.com/user-attachments/assets/a5be1cd3-8f23-400f-aa24-ef0b7c1794dd" /></a><a href="https://i25r.atabook.org"><img width="400" height="400" alt="tumblr_e2cb89bb71b8d1795dc376517814e209_1216332f_500" src="https://github.com/user-attachments/assets/f7c503f4-a342-40e8-bed1-abb44f644e5d" /></a>
+<a href="https://github.com/ace-syrup"><img width="350" height="350" alt="tumblr_5fe219e4e9aef22e5911dab361d3f416_729c742a_1280" src="https://github.com/user-attachments/assets/a5be1cd3-8f23-400f-aa24-ef0b7c1794dd" Title="Main" /></a><a href="https://i25r.atabook.org"><img width="400" height="400" alt="tumblr_e2cb89bb71b8d1795dc376517814e209_1216332f_500" src="https://github.com/user-attachments/assets/f7c503f4-a342-40e8-bed1-abb44f644e5d" Title="Atabook" /></a>
 
 𝚝𝚑𝚊𝚗𝚔 &emsp;&emsp; 𝚢𝚘𝚞.
 
