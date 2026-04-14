@@ -4,7 +4,7 @@
 
 It's me <a href=https://github.com/ace-syrup>Maple</a>, this is my new main. Currently on a follow spree
 
-Js talk to me bc being at the spot alone is mid and makes me look like a chud
+Js talk to me bc being at the spot alone is mid to me and makes me look like a chud
 
 <!-- 😍 -->
 
