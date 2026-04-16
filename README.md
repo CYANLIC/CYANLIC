@@ -4,7 +4,7 @@
 
 It's me <a href=https://github.com/ace-syrup>Maple</a>, this is my new main. Currently on a follow spree
 
-Js talk to me I like interacting
+Js talk to me, I like interacting
 
 <!-- 😍 -->
 
