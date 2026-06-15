@@ -5,7 +5,7 @@
 Hit me up!<br>
 Interact anytime
 
-<sub>mostly active at nighttime or evening</sub>
+<sub>mostly active at nighttime or afternoon</sub>
 
 <!-- 😍 -->
 
